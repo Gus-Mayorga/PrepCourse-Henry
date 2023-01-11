@@ -1,1 +1,1 @@
-Este es un repositorio de prueba para aprender como crearlo y clonarlo desde Github a mi computadora.
+Este es un repositorio de prueba de Gustavo para aprender como crearlo y clonarlo desde Github a mi computadora.
